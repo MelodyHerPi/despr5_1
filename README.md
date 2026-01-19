@@ -9,6 +9,7 @@
 
 ### Paso 9: Workflow solo en main
 ![alt text](image-3.png)
+> Cambio a main y hago el push
+![alt text](image-4.png)
 
-
-
+### Paso 10: Workflow con pull requests
